@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Khushi 👋
 
-<!--
-**Khushi-tyagi20/Khushi-tyagi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm currently building my skills in data analytics and working on practical projects to learn how data can be used to understand problems and generate insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills I'm Learning
+
+- Excel
+- SQL
+- Tableau
+- Python
+- Data Analysis
+
+### 📂 My Projects
+
+**🎬 Netflix Tableau Dashboard**  
+A Tableau dashboard exploring Netflix content and trends.
+
+**🏦 Bank Loan Analysis**  
+Currently working on a data analysis project focused on bank loan data.  
+*Coming soon...*
+
+### 🌱 Currently Learning
+
+- SQL for Data Analysis
+- Python & Pandas
+- Data Visualization
+- Data Analytics
+
+### 🎯 Goal
+
+To build strong practical skills in data analytics through projects and eventually work as a Data Analyst.
+
+Thanks for visiting my profile! 😊
